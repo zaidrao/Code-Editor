@@ -19,7 +19,7 @@ It includes all functions which a simple text editor should have also include so
 # INSTALLATION #
 ## Window ##
 
-For Window just download .exe [Download]() file and Install.
+For Window just download .exe [Download](https://github.com/zaidrao/Code-Editor/releases/download/0.9.1/CodeEditor.exe) file and Install.
 
 ## Other Platform ##
 
