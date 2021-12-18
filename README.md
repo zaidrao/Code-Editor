@@ -8,6 +8,7 @@ Code editor is simple text editor with some extra features built in QT.
 
 # DESCRIPTION #
 It is a simple text editor with multiple tab. It is free and easy to use. It includes syntax highlighter Still only support c and c++ syntax for highlighting. It also includes my [c++ auto beautifier](https://github.com/zaidrao/C-plus-Style-code-beautify) which can remove and add indentation automatically just in one click.
+![alt text](https://github.com/zaidrao/Code-Editor/blob/main/CodeEditor/codeeditor.png)
 
 # FEATURES #
 It includes all functions which a simple text editor should have also include some other functions.
