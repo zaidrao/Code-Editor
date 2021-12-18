@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>icons/about.png</file>
+        <file>icons/copy.png</file>
+        <file>icons/cut.png</file>
+        <file>icons/find.png</file>
+        <file>icons/help.png</file>
+        <file>icons/newfile.png</file>
+        <file>icons/openfile.png</file>
+        <file>icons/paste.png</file>
+        <file>icons/redo.png</file>
+        <file>icons/replace.png</file>
+        <file>icons/save.png</file>
+        <file>icons/saveas.png</file>
+        <file>icons/undo.png</file>
+        <file>icons/zoomin.png</file>
+        <file>icons/zoomout.png</file>
+        <file>icons/dot.png</file>
+        <file>icons/auto-indent.png</file>
+        <file>icons/remove-indent.png</file>
+        <file>icons/appic.ico</file>
+    </qresource>
+</RCC>
